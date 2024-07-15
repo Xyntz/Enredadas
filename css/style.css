@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'NombreDeLaFuente';
-    src: url('../fonts/Homework.woff2') format('woff2'),
-         url('/ruta/a/tu/fuente/honey_crepes-webfont.woff') format('woff');
+    src: url('../fonts/Homework.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
